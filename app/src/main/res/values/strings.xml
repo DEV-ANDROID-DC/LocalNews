@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="category">Category</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_reporter_name">Reporter Name</string>
+    <string name="hint_description">Description</string>
+    <string name="text_add_news">Add News</string>
+
+    <string name="error_message_title">Please enter a valid Title</string>
+    <string name="error_message_name">Please enter a valid Name</string>
+    <string name="add_news_successful">You have successfully added an news!</string>
+    <string name="ok">OK</string>
+
+    <string name="text_uploading">Uploading...</string>
+    <string name="text_uploaded">Upload complete!</string>
+    <string name="top_news">Top News</string>
+    <string name="city_news">City News</string>
+    <string name="county_news">County News</string>
+</resources>

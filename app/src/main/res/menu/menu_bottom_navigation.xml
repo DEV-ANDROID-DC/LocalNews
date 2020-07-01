@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/nav_topNews"
+    android:icon="@drawable/ic_baseline_account_circle_24"
+    android:title="@string/top_news"/>
+  <item
+    android:id="@+id/nav_cityNews"
+    android:icon="@drawable/ic_baseline_location_city_24"
+    android:title="@string/city_news"/>
+  <item
+    android:id="@+id/nav_countyNews"
+    android:icon="@drawable/ic_baseline_account_circle_24"
+    android:title="@string/county_news"/>
+</menu>
